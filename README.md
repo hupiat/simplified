@@ -1,2 +1,2 @@
 # simplified
-Telegram bot based on Vortex
+Telegram bot inspired by Vortex
