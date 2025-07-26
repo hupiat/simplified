@@ -1,3 +1,9 @@
+# Dependencies
 node_modules/
+target/
+
+# Env
 .env
+
+# Wallet (keys)
 wallet.json
